@@ -1,0 +1,24 @@
+{
+  "name": "front-end-web-development-with-react",
+  "version": "1.0.0",
+  "description": "\"Coursera front end course with React\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayupp/front-end-web-development-with-react.git"
+  },
+  "author": "Jay Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayupp/front-end-web-development-with-react/issues"
+  },
+  "homepage": "https://github.com/Jayupp/front-end-web-development-with-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
